@@ -1,5 +1,12 @@
 body {
     background-color: antiquewhite;
+
+}
+
+#main {
     text-align: center;
+    align-items: center;
     justify-content: center;
+    width: auto;
+    height: auto;
 }
