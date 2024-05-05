@@ -10,3 +10,19 @@ body {
     width: auto;
     height: auto;
 }
+
+#quote-box {
+    font-family: arial;
+    font-size: 24px;
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  p {
+    /* Center horizontally*/
+    text-align: center;
+  }
+  
